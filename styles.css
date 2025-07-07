@@ -28,7 +28,7 @@
     /* display: none; */
     text-align: left;
     opacity: 0;
-    transition: max-height 0.3s  linear, opacity 0.3s linear, margin 0.3s linear;
+    transition: max-height 0.3s  lineargi, opacity 0.3s lineargi, margin 0.3s lineargi;
     color:#555;
 }
 
