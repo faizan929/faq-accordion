@@ -1,26 +1,71 @@
 /* target the container class first    */
-.container{
-    background-color:rgb(20,20,20);
-    text-align:center;
+/* body {} */
+    /* background-color:hsl(0, 100%, 100%); */
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+#title {
+    color:hsl(292, 42%, 14%);
+    font-weight: 700;
+    align-items: center;
+    font-size:2rem;
+}
+.title-row {
+    display:flex;
+    gap:0.75rem;
+    position:sticky;
     
 }
 
+.title-icon {
+    /* width:50px; */
+    /* height: 50px; */
+    margin-left:2px;
+    height:1.5rem;
+}
 
+.container{
+    background-color: hsl(0, 70%, 100%);
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    margin:30%;
+    padding:0.75rem;
+    
+}
+
+/* .faq-item { */
+    /* background-color: #ffff; */
+    /* margin:50px; */
+/* }  */
 .background {
     height:80vh;
     width: 80vw;
-    background:linear-gradient(to bottom, hsl(292, 42%, 14%) 20%, hsl(0, 100%, 100%) 20%);
+    background:linear-gradient(to bottom, hsl(292, 42%, 14%) 30%, hsl(0, 50%, 100%) 30%);
     display:flex;
     justify-content:center;
     align-items:center;
-    margin: 70px 20px 70px 80px;
+    margin: 90px;
     
 
 
 
 }
 
+.question {
+    color: hsl(292, 39%, 26%);
+    font-weight:600;
+    font-size:1rem;
+}
 
+.answer {
+    font-weight: 400;
+    font-size:0.95rem;
+    color: hsl(292, 39%, 26%);
+    
+
+}
 .answer-row {
     max-height: 0;
     overflow:hidden;
@@ -43,7 +88,8 @@
     justify-content:space-between;
     align-items:center;
     cursor:pointer;
-    background-color: rgb(2,2,10);
+    /* background-color: rgb(2,2,10); */
+    /* color:hsl(292, 42%, 14%); */
     padding: 10px 10px;
     border: 1px solid rgb(240,240,240);
     border-radius: 5px;
@@ -55,5 +101,6 @@
     font-size:20px;
     font-weight:bold;
     margin-left:10px;
+    color:hsl(292, 89%, 47%)
 }
 
