@@ -30,7 +30,13 @@ faq-accordion/
 ├── assets/
 ├── design/        ← Contains challenge design images
 └── README.md
+
 ```
+
+## 🔗 Live Demo
+👉 (faq-accordion-ktthmily8-faizan929s-projects.vercel.app)
+
+
 ## 💬 Feedback
 I'd love feedback on:
 - Responsive design on smaller devices
