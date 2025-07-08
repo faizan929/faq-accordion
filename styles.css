@@ -30,8 +30,9 @@ body {
     display:flex;
     flex-direction:column;
     text-align:center;
-    margin:30%;
+    margin:0 auto;
     padding:0.75rem;
+    max-width:600px;
     
 }
 
@@ -40,13 +41,13 @@ body {
     /* margin:50px; */
 /* }  */
 .background {
-    height:80vh;
-    width: 80vw;
+    height:600px;
+    max-width: 900px;
     background:linear-gradient(to bottom, hsl(292, 42%, 14%) 30%, hsl(0, 50%, 100%) 30%);
     display:flex;
     justify-content:center;
     align-items:center;
-    margin: 90px;
+    margin: 90px auto;
     
 
 
