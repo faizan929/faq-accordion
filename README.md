@@ -47,5 +47,4 @@ I'd love feedback on:
 - Use a framework (like React) for state management.
 
 
-🤝 Author
-Made by **Faizan Sheikh**
+🤝 Author: Made by **Faizan Sheikh**
