@@ -41,11 +41,11 @@ I'd love feedback on:
 
 
 🧠Future Improvements
-Add keyboard accessibility (Tab, Enter).
-Improve animation smoothness.
-Add ARIA(Accessibility Rich Internet Application) attributes for accessibility.
-Use a framework (like React) for state management.
+- Add keyboard accessibility (Tab, Enter).
+- Improve animation smoothness.
+- Add ARIA(Accessibility Rich Internet Application) attributes for accessibility.
+- Use a framework (like React) for state management.
 
 
 🤝 Author
-Made by <Faizan Sheikh>
+Made by **Faizan Sheikh**

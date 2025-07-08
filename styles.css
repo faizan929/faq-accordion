@@ -1,7 +1,3 @@
-/* target the container class first    */
-/* body {} */
-    /* background-color:hsl(0, 100%, 100%); */
-
 body {
     font-family: 'Work Sans', sans-serif;
 }
@@ -36,10 +32,7 @@ body {
     
 }
 
-/* .faq-item { */
-    /* background-color: #ffff; */
-    /* margin:50px; */
-/* }  */
+
 .background {
     height:600px;
     max-width: 900px;
@@ -89,8 +82,6 @@ body {
     justify-content:space-between;
     align-items:center;
     cursor:pointer;
-    /* background-color: rgb(2,2,10); */
-    /* color:hsl(292, 42%, 14%); */
     padding: 10px 10px;
     border: 1px solid rgb(240,240,240);
     border-radius: 5px;
